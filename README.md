@@ -105,7 +105,7 @@ There are three things that need to be running in order to execute the whole app
 ### Bicycle Card
 
 <p align="center">
-<img src="res/Screenshots/13.**png**" />
+<img src="res/Screenshots/13.png" />
 </p>
 
 - **🖼️ Picture Button:** See the whole picture of the bicycle in a new tab.
