@@ -52,12 +52,6 @@ There are three things that need to be running in order to execute the whole app
 <img src="res/Screenshots/4.png" />
 </p>
 
-### Learn more page
-
-<p align="center">
-<img src="res/Screenshots/5.png" />
-</p>
-
 ### Sign up page
 
 <p align="center">
